@@ -1,4 +1,4 @@
 # MEMDL-Net
-MEMDL-Net for low-dose medical image reconstruction
+MEMDL-Net for medical image reconstruction
 
 The code will be coming soon
